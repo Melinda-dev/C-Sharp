@@ -1,0 +1,39 @@
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\HolmesglenStudentManagementSystem.exe
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\HolmesglenStudentManagementSystem.deps.json
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\HolmesglenStudentManagementSystem.runtimeconfig.json
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\HolmesglenStudentManagementSystem.runtimeconfig.dev.json
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\HolmesglenStudentManagementSystem.dll
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\HolmesglenStudentManagementSystem.pdb
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\obj\Debug\netcoreapp3.1\HolmesglenStudentManagementSystem.csproj.AssemblyReference.cache
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\obj\Debug\netcoreapp3.1\HolmesglenStudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\obj\Debug\netcoreapp3.1\HolmesglenStudentManagementSystem.AssemblyInfoInputs.cache
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\obj\Debug\netcoreapp3.1\HolmesglenStudentManagementSystem.AssemblyInfo.cs
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\obj\Debug\netcoreapp3.1\HolmesglenStudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\obj\Debug\netcoreapp3.1\HolmesglenStudentManagementSystem.csproj.CopyComplete
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\obj\Debug\netcoreapp3.1\HolmesglenStudentManagementSystem.dll
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\obj\Debug\netcoreapp3.1\HolmesglenStudentManagementSystem.pdb
+C:\Zhan_holmesglen\c#\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\obj\Debug\netcoreapp3.1\HolmesglenStudentManagementSystem.genruntimeconfig.cache
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\obj\Debug\netcoreapp3.1\HolmesglenStudentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\obj\Debug\netcoreapp3.1\HolmesglenStudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\obj\Debug\netcoreapp3.1\HolmesglenStudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\obj\Debug\netcoreapp3.1\HolmesglenStudentManagementSystem.AssemblyInfo.cs
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\HolmesglenStudentManagementSystem\HolmesglenStudentManagementSystem\obj\Debug\netcoreapp3.1\HolmesglenStudentManagementSystem.csproj.CoreCompileInputs.cache

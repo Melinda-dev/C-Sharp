@@ -1,0 +1,53 @@
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Entity Framework.exe
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Entity Framework.deps.json
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Entity Framework.runtimeconfig.json
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Entity Framework.runtimeconfig.dev.json
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Entity Framework.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Entity Framework.pdb
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Humanizer.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\obj\Debug\net5.0\Entity Framework.csproj.AssemblyReference.cache
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\obj\Debug\net5.0\Entity Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\obj\Debug\net5.0\Entity Framework.AssemblyInfoInputs.cache
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\obj\Debug\net5.0\Entity Framework.AssemblyInfo.cs
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\obj\Debug\net5.0\Entity Framework.csproj.CoreCompileInputs.cache
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\obj\Debug\net5.0\Entity Framework.csproj.CopyComplete
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\obj\Debug\net5.0\Entity Framework.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\obj\Debug\net5.0\refint\Entity Framework.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\obj\Debug\net5.0\Entity Framework.pdb
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\obj\Debug\net5.0\Entity Framework.genruntimeconfig.cache
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 2\AT2Project\Entity Frame\Entity Framework\Entity Framework\obj\Debug\net5.0\ref\Entity Framework.dll

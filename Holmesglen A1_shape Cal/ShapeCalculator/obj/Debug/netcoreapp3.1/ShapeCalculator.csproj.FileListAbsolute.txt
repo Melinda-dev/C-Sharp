@@ -1,0 +1,42 @@
+C:\Zhan_holmesglen\c#\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.csproj.AssemblyReference.cache
+C:\Zhan_holmesglen\c#\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Zhan_holmesglen\c#\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.AssemblyInfoInputs.cache
+C:\Zhan_holmesglen\c#\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.AssemblyInfo.cs
+C:\Zhan_holmesglen\c#\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.csproj.CoreCompileInputs.cache
+C:\Zhan_holmesglen\c#\ShapeCalculator\bin\Debug\netcoreapp3.1\ShapeCalculator.exe
+C:\Zhan_holmesglen\c#\ShapeCalculator\bin\Debug\netcoreapp3.1\ShapeCalculator.deps.json
+C:\Zhan_holmesglen\c#\ShapeCalculator\bin\Debug\netcoreapp3.1\ShapeCalculator.runtimeconfig.json
+C:\Zhan_holmesglen\c#\ShapeCalculator\bin\Debug\netcoreapp3.1\ShapeCalculator.runtimeconfig.dev.json
+C:\Zhan_holmesglen\c#\ShapeCalculator\bin\Debug\netcoreapp3.1\ShapeCalculator.dll
+C:\Zhan_holmesglen\c#\ShapeCalculator\bin\Debug\netcoreapp3.1\ShapeCalculator.pdb
+C:\Zhan_holmesglen\c#\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.dll
+C:\Zhan_holmesglen\c#\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.pdb
+C:\Zhan_holmesglen\c#\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.genruntimeconfig.cache
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\ShapeCalculator\bin\Debug\netcoreapp3.1\ShapeCalculator.exe
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\ShapeCalculator\bin\Debug\netcoreapp3.1\ShapeCalculator.deps.json
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\ShapeCalculator\bin\Debug\netcoreapp3.1\ShapeCalculator.runtimeconfig.json
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\ShapeCalculator\bin\Debug\netcoreapp3.1\ShapeCalculator.runtimeconfig.dev.json
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\ShapeCalculator\bin\Debug\netcoreapp3.1\ShapeCalculator.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\ShapeCalculator\bin\Debug\netcoreapp3.1\ShapeCalculator.pdb
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.csproj.AssemblyReference.cache
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.AssemblyInfoInputs.cache
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.AssemblyInfo.cs
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.pdb
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.genruntimeconfig.cache
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 1\ShapeCalculator\bin\Debug\netcoreapp3.1\ShapeCalculator.exe
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 1\ShapeCalculator\bin\Debug\netcoreapp3.1\ShapeCalculator.deps.json
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 1\ShapeCalculator\bin\Debug\netcoreapp3.1\ShapeCalculator.runtimeconfig.json
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 1\ShapeCalculator\bin\Debug\netcoreapp3.1\ShapeCalculator.runtimeconfig.dev.json
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 1\ShapeCalculator\bin\Debug\netcoreapp3.1\ShapeCalculator.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 1\ShapeCalculator\bin\Debug\netcoreapp3.1\ShapeCalculator.pdb
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 1\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.csproj.AssemblyReference.cache
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 1\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 1\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.AssemblyInfoInputs.cache
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 1\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.AssemblyInfo.cs
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 1\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 1\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.dll
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 1\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.pdb
+C:\Users\liu_s\OneDrive\Documents\Holmesglen Assessment\C#\Assessment 1\ShapeCalculator\obj\Debug\netcoreapp3.1\ShapeCalculator.genruntimeconfig.cache

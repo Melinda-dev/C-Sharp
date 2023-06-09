@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/JYH612W8peRlFEwuiWiXgUo30Ludg/phJfrNZ7i3gF7tpV18G0QcRqoTYs7LFYtnxbjC0TaE8AThvm0JvbuoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\liu_s\\OneDrive\\Documents\\Holmesglen Assessment\\C#\\Assessment 2\\HolmesglenStudentManagementSystem\\HolmesglenStudentManagementSystem\\HolmesglenStudentManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liu_s\\.nuget\\packages\\microsoft.data.sqlite\\6.0.10\\microsoft.data.sqlite.6.0.10.nupkg.sha512",
+    "C:\\Users\\liu_s\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.10\\microsoft.data.sqlite.core.6.0.10.nupkg.sha512",
+    "C:\\Users\\liu_s\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\liu_s\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\liu_s\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\liu_s\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\liu_s\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
